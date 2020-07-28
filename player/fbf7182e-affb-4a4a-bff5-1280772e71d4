@@ -1,0 +1,13 @@
+{ 
+   "uuid":"fbf7182e-affb-4a4a-bff5-1280772e71d4",
+   "username":WallArt,
+   "cosmetics":{ 
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
+      }
+   }
+}
