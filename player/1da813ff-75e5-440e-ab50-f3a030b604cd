@@ -1,9 +1,17 @@
+  
 { 
    "uuid":"1da813ff-75e5-440e-ab50-f3a030b604cd",
    "username":seizre,
    "cosmetics":{ 
-      "black":{ 
-         "name":"black",
+      "faze_2":{ 
+         "name":"default",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/blob/master/cosmetics/capes/default.png"
+},
+      "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
