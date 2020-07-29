@@ -1,0 +1,13 @@
+{ 
+   "uuid":"1da813ff-75e5-440e-ab50-f3a030b604cd",
+   "username":seizre,
+   "cosmetics":{ 
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/blob/master/cosmetics/wings/black.png"
+      }
+   }
+}
