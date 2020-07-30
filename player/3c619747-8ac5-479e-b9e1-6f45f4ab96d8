@@ -3,12 +3,12 @@
    "uuid":"3c619747-8ac5-479e-b9e1-6f45f4ab96d8",
    "username":null,
    "cosmetics":{ 
-      "tryhard":{ 
-         "name":"tryhard",
+      "420":{ 
+         "name":"420",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/tryhard.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/420.png"
 },
       "purple":{ 
          "name":"purple",
