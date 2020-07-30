@@ -30,6 +30,13 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/prplz.png"
 },
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/darkblue.png"
+},
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
