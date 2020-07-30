@@ -16,6 +16,20 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_red.png"
 },
+      "calvin":{ 
+         "name":"calvin",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/calvin.png"
+},
+      "prplz":{ 
+         "name":"prplz",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/prplz.png"
+},
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
