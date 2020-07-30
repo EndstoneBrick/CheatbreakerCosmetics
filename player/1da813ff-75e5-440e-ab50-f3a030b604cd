@@ -1,5 +1,41 @@
-<?php
-if (isset($_GET['1da813ff-75e5-440e-ab50-f3a030b604cd'])) {
-    echo '{"1da813ff-75e5-440e-ab50-f3a030b604cd":"' . $_GET['1da813ff-75e5-440e-ab50-f3a030b604cd'] . '","username":null,"cosmetics":{"protected":{"name":"protected","type":"cape","scale":0.16,"active":true,"resourceLocation":"protected"},"purple":{"name":"purple","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"purple"}}}';
+{ 
+   "uuid":"1da813ff-75e5-440e-ab50-f3a030b604cd",
+   "username":null,
+   "cosmetics":{ 
+      "default":{ 
+         "name":"default",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/default.png"
+},
+      "calvin":{ 
+         "name":"calvin",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/calvin.png"
+},
+      "prplz":{ 
+         "name":"prplz",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/prplz.png"
+},
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/darkblue.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
+      }
+   }
 }
-?>
