@@ -1,0 +1,20 @@
+{ 
+   "uuid":"b3c21823-0e91-423a-a627-ea7f0730df48",
+   "username":null,
+   "cosmetics":{ 
+      "420":{ 
+         "name":"cb_staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_staff.png"
+},
+      "purple":{ 
+         "name":"gold",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/gold.png"
+      }
+   }
+}
