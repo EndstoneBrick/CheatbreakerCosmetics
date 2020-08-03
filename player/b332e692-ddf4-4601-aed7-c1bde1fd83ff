@@ -1,0 +1,13 @@
+{ 
+   "uuid":"b332e692-ddf4-4601-aed7-c1bde1fd83ff",
+   "username":null,
+   "cosmetics":{ 
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/youtube.png"
+      }
+   }
+}
