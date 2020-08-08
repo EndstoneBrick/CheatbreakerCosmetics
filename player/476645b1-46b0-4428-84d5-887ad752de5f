@@ -1,0 +1,21 @@
+{ 
+   "uuid":"476645b1-46b0-4428-84d5-887ad752de5f",
+   "username":null,
+   "cosmetics":{ 
+      "420":{ 
+         "name":"greece",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/greece.png"
+},
+      "purple":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
+© 2020 GitHub, Inc.
