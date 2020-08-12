@@ -3,11 +3,11 @@
    "username":null,
    "cosmetics":{ 
       "default":{ 
-         "name":"default",
+         "name":"cb_staff",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/default.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_staff.png"
 },
       "calvin":{ 
          "name":"calvin",
