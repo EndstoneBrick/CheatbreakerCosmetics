@@ -2,7 +2,7 @@
    "uuid":"476645b1-46b0-4428-84d5-887ad752de5f",
    "username":null,
    "cosmetics":{ 
-      "default":{ 
+      "cb_black":{ 
          "name":"cb_black",
          "type":"cape",
          "scale":0.16,
