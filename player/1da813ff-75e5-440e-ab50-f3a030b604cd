@@ -3,37 +3,16 @@
    "username":null,
    "cosmetics":{ 
       "default":{ 
-         "name":"cb_staff",
+         "name":"cb_black",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_staff.png"
-},
-      "calvin":{ 
-         "name":"calvin",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/calvin.png"
-},
-      "prplz":{ 
-         "name":"prplz",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/prplz.png"
-},
-      "darkblue":{ 
-         "name":"darkblue",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/darkblue.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_black.png"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
-         "scale":0.15,
+         "scale":0.10,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
       }
