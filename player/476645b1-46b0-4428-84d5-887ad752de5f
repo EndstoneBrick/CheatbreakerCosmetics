@@ -2,19 +2,19 @@
    "uuid":"476645b1-46b0-4428-84d5-887ad752de5f",
    "username":null,
    "cosmetics":{ 
-      "420":{ 
-         "name":"greece",
+      "default":{ 
+         "name":"cb_black",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/greece.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_black.png"
 },
-      "purple":{ 
-         "name":"red",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
-         "scale":0.15,
+         "scale":0.13,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/red.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
       }
    }
 }
