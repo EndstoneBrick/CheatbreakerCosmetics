@@ -12,7 +12,7 @@
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
-         "scale":0.10,
+         "scale":0.13,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
       }
