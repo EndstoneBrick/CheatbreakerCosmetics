@@ -2,12 +2,12 @@
    "uuid":"1e191925-2182-471c-9515-493cae4c83bf",
    "username":null,
    "cosmetics":{ 
-      "default":{ 
-         "name":"cb_staff",
-         "type":"cape",
-         "scale":0.16,
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.13,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_staff.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/indigo.png"
       }
    }
 }
