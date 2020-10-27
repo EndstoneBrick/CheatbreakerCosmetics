@@ -2,12 +2,12 @@
    "uuid":"476645b1-46b0-4428-84d5-887ad752de5f",
    "username":null,
    "cosmetics":{ 
-      "default":{ 
-         "name":"cb_black",
+      "2016":{ 
+         "name":"2016",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/2016.png"
 },
       "black":{ 
          "name":"black",
