@@ -3,16 +3,16 @@
    "username":null,
    "cosmetics":{ 
       "2016":{ 
-         "name":"2016",
+         "name":"cb_black",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/2016.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_black.png"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
-         "scale":0.13,
+         "scale":0.11,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
       }
