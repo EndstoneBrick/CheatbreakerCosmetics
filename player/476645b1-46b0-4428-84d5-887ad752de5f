@@ -8,13 +8,6 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/2016.png"
-},
-      "black":{ 
-         "name":"black",
-         "type":"dragon_wings",
-         "scale":0.13,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
       }
    }
 }
