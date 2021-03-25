@@ -3,11 +3,11 @@
    "username":null,
    "cosmetics":{ 
       "2016":{ 
-         "name":"cb_black",
+         "name":"2016",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cb_black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/2016.png"
 },
       "black":{ 
          "name":"black",
