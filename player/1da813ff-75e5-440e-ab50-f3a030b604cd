@@ -2,19 +2,19 @@
    "uuid":"1da813ff-75e5-440e-ab50-f3a030b604cd",
    "username":null,
    "cosmetics":{ 
-      "cobalt":{ 
-         "name":"cobalt",
+      "turtle":{ 
+         "name":"turtle",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/cobalt.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/turtle.png"
 },
-      "black":{ 
-         "name":"black",
+      "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.11,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/wings/red.png"
       }
    }
 }
