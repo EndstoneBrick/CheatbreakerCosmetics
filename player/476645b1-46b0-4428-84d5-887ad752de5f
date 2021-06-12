@@ -2,12 +2,12 @@
    "uuid":"476645b1-46b0-4428-84d5-887ad752de5f",
    "username":null,
    "cosmetics":{ 
-      "2016":{ 
-         "name":"2016",
+      "venezuleameezoid":{ 
+         "name":"venezuleameezoid",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/2016.png"
+         "resourceLocation":"https://raw.githubusercontent.com/chineseeee/CheatbreakerCosmetics/master/cosmetics/capes/venezuleameezoid.png"
       }
    }
 }
